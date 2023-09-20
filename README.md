@@ -1,5 +1,5 @@
 # android-todo-list
-Android todo list written in Java.
+Android todo list written in Java. The app saves data via SQLite.
 
 ## Homepage
 ![assign5pt1(2)](https://github.com/Vernon-C/android-todo-list/assets/80450405/041f258e-e89a-4bef-aa5d-99fee0e26c24)
