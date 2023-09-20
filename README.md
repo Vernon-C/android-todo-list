@@ -10,5 +10,6 @@ Android todo list written in Java.
 ## Completed tasks page
 ![assign5pt1(3)](https://github.com/Vernon-C/android-todo-list/assets/80450405/022863a9-f05f-4967-8516-ad968044aeef)
 
-### Known issues:
-1. In settings, you must change Build, Execution, Deployment -> Gradle's JDK to JDK 15.
+### Prerequisites to running the app:
+1. Before launching the project in Android Studio, delete the folders named ".idea", "gradle", and "app/build".
+2. In settings, you must change Build, Execution, Deployment -> Gradle's JDK to JDK 15.
